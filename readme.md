@@ -1,4 +1,4 @@
-# Xbox 360 Catalog API
+# Xbox 360 Catalog Explorer
 
 This script is designed to retrieve information for an Xbox 360 title from static data dumped late 2019.
 
